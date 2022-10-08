@@ -1,0 +1,27 @@
+Error between approximate and exact probabilities:
+For k = 0: Calculated P_hat(Z): 0.03995 and error is 0.0008122039783662119
+For k = 1: Calculated P_hat(Z): 0.12899 and error is 0.0014490527307718937
+For k = 2: Calculated P_hat(Z): 0.20708 and error is 0.0016224843692350666
+For k = 3: Calculated P_hat(Z): 0.22464 and error is 0.002024016672815959
+For k = 4: Calculated P_hat(Z): 0.18164 and error is 0.0035472133382527526
+For k = 5: Calculated P_hat(Z): 0.11448 and error is 0.0005006165364817572
+For k = 6: Calculated P_hat(Z): 0.06124 and error is 0.00045099548612360235
+For k = 7: Calculated P_hat(Z): 0.02639 and error is 0.0013992592063434978
+For k = 8: Calculated P_hat(Z): 0.01077 and error is 0.0003457036825374009
+For k = 9: Calculated P_hat(Z): 0.00323 and error is 0.0007222501982355202
+For k = 10: Calculated P_hat(Z): 0.00122 and error is 4.47200634353666e-05
+For k = 11: Calculated P_hat(Z): 0.00025 and error is 0.00011791856390847027
+For k = 12: Calculated P_hat(Z): 0.0001 and error is 1.8883829577412626e-06
+For k = 13: Calculated P_hat(Z): 2e-05 and error is 4.150551887325227e-06
+For k = 14: Calculated P_hat(Z): 0.0 and error is 5.520126145674339e-06
+For k = 15: Calculated P_hat(Z): 0.0 and error is 1.1776269110771923e-06
+For k = 16: Calculated P_hat(Z): 0.0 and error is 2.3552538221543848e-07
+For k = 17: Calculated P_hat(Z): 0.0 and error is 4.433418959349431e-08
+For k = 18: Calculated P_hat(Z): 0.0 and error is 7.8816337055101e-09
+For k = 19: Calculated P_hat(Z): 0.0 and error is 1.327433045138543e-09
+For k = 20: Calculated P_hat(Z): 0.0 and error is 2.1238928722216692e-10
+For k = 21: Calculated P_hat(Z): 0.0 and error is 3.2364081862425436e-11
+For k = 22: Calculated P_hat(Z): 0.0 and error is 4.707502816352791e-12
+For k = 23: Calculated P_hat(Z): 0.0 and error is 6.549569135795188e-13
+For k = 24: Calculated P_hat(Z): 0.0 and error is 8.732758847726919e-14
+For k = 25: Calculated P_hat(Z): 0.0 and error is 1.1177931325090456e-14

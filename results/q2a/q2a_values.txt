@@ -1,0 +1,27 @@
+Error between approximate and exact probabilities:
+For k = 0: Calculated P(Z)=0.000903 and error is 8.881965554516195e-06
+For k = 1: Calculated P(Z)=0.006325 and error is 5.8173758881613705e-05
+For k = 2: Calculated P(Z)=0.022276 and error is 6.510815608564563e-05
+For k = 3: Calculated P(Z)=0.051859 and error is 0.0002702523641998425
+For k = 4: Calculated P(Z)=0.091072 and error is 0.00015419163734972652
+For k = 5: Calculated P(Z)=0.127581 and error is 0.00013566829228961463
+For k = 6: Calculated P(Z)=0.149209 and error is 0.00020622032566211534
+For k = 7: Calculated P(Z)=0.149799 and error is 0.0007962203256620948
+For k = 8: Calculated P(Z)=0.130449 and error is 7.156778495437388e-05
+For k = 9: Calculated P(Z)=0.101062 and error is 0.0003426695005910724
+For k = 10: Calculated P(Z)=0.071183 and error is 0.0001997313495862435
+For k = 11: Calculated P(Z)=0.045372 and error is 0.00020082904064579882
+For k = 12: Calculated P(Z)=0.026231 and error is 0.00011884972628994905
+For k = 13: Calculated P(Z)=0.013956 and error is 0.00023238062184843464
+For k = 14: Calculated P(Z)=0.007028 and error is 6.619031092421762e-05
+For k = 15: Calculated P(Z)=0.003278 and error is 3.262214509796831e-05
+For k = 16: Calculated P(Z)=0.001467 and error is 1.8602811519638756e-05
+For k = 17: Calculated P(Z)=0.000585 and error is 1.1398842315442793e-05
+For k = 18: Calculated P(Z)=0.00024 and error is 8.067116877327805e-06
+For k = 19: Calculated P(Z)=7.4e-05 and error is 1.144895693993188e-05
+For k = 20: Calculated P(Z)=2.9e-05 and error is 9.071349289761511e-07
+For k = 21: Calculated P(Z)=1.3e-05 and error is 3.0309550236746138e-06
+For k = 22: Calculated P(Z)=6e-06 and error is 2.8280311438964686e-06
+For k = 23: Calculated P(Z)=3e-06 and error is 2.0346181742293605e-06
+For k = 24: Calculated P(Z)=0.0 and error is 2.8156969918310334e-07
+For k = 25: Calculated P(Z)=0.0 and error is 7.883951577126893e-08

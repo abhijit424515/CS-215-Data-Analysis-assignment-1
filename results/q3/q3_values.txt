@@ -1,0 +1,6 @@
+Calculated Mean: 9.420000000000008e-05
+Calculated Variance: 0.0010068147263600001
+True Mean: 0
+True Variance: 0.001
+Error between true variance and calculated mean is 9.420000000000008e-05
+Error between true variance and calculated variance is 6.814726360000094e-06
